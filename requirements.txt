@@ -1,0 +1,7 @@
+nltk
+matplotlib
+seaborn
+streamlit
+pandas
+langchain_groq
+langchain
