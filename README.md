@@ -1,11 +1,5 @@
 # Sentiment Analysis using NLTK - VADER
 
-## Clone the Repository
-
-bash
-git clone https://github.com/your-username/sentiment-analysis-vader.git
-cd sentiment-analysis-vader
-
 
 ## Install the Required Packages
 
